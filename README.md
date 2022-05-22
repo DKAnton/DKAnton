@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning how to work with github ffs
+
 <!--
 **DKAnton/DKAnton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
